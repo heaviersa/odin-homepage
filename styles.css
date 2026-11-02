@@ -130,3 +130,11 @@ figcaption {
 .action-para {
     font-size: 12px;
 }
+
+footer {
+    color:white;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
