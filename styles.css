@@ -41,9 +41,17 @@ main {
 
 main div {
     padding: 10px;
-    width:fit-content
+    width:fit-content;
+    height:max-content;
 }
 
 .div1 {
     background-color: lightpink;
+}
+
+button {
+    background-color: blue;
+    color:#f9faf8;
+    text-transform: bold;
+    border-radius: 5px;
 }
