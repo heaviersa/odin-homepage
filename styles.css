@@ -17,7 +17,7 @@ nav a {
     margin: 5px;
 }
 
-header, footer, main {
+header, footer, .section1 {
     background-color: #1f2937;
 }
 
@@ -30,7 +30,7 @@ a:hover {
     color: red;
 }
 
-main {
+.section1 {
     color: white;
     display: flex;
     flex-direction: row;
