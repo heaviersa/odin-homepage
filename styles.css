@@ -114,13 +114,19 @@ figcaption {
 .main-div p {
     margin-top:0px;
     margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .action {
-    margin: 20px;
+    margin: 30px;
 }
 
 .action-button {
     border: 1px solid white;
     width: 70px;
+}
+
+.action-para {
+    font-size: 12px;
 }
