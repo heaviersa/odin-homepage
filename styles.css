@@ -56,6 +56,7 @@ button {
     color:#f9faf8;
     text-transform: bold;
     border-radius: 5px;
+    border: 0px solid white;
 }
 
 .info h2{
@@ -93,4 +94,33 @@ figcaption {
 .who {
     padding-right: 60px;
     text-align: end;
+}
+
+.main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.main-div {
+    margin: 20px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.main-div p {
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+
+.action {
+    margin: 20px;
+}
+
+.action-button {
+    border: 1px solid white;
+    width: 70px;
 }
