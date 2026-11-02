@@ -55,3 +55,8 @@ button {
     text-transform: bold;
     border-radius: 5px;
 }
+
+figure div{
+    border-color: blue;
+    border: 5px;
+}
